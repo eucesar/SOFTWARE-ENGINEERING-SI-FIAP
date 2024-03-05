@@ -5,7 +5,7 @@
 
 > 🌱👨‍💻 - Launching a repository at FIAP dedicated to optimized code in SOFTWARE ENGINEERING, a subject in the second year of the Systems Information course. Sharing high-performance practices and exercises, this repository will serve as a valuable resource for reviews and collaborations, fostering my development as a software engineer.
 
-Planning to leverage multiple tools throughout the course for an enriched learning experience and effective progress tracking. Stay tuned for shared files and collaborative coding adventures..
+Planning to leverage multiple tools throughout the course for an enriched learning experience and effective progress tracking. Stay tuned for shared files and collaborative coding adventures.
 
 ## Download
 
