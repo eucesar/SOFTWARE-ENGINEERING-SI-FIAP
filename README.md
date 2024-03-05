@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-   <img align="center" alt="Cesar-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   
 </p>
 
 > 🌱👨‍💻 - Launching a repository at FIAP dedicated to optimized code in SOFTWARE ENGINEERING, a subject in the second year of the Systems Information course. Sharing high-performance practices and exercises, this repository will serve as a valuable resource for reviews and collaborations, fostering my development as a software engineer.
