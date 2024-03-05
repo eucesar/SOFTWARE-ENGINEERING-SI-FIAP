@@ -1,2 +1,23 @@
-# SOFTWARE-ENGINEERING-SI-FIAP
-👨‍💻✍️ -   Initiating a FIAP repository for SOFTWARE ENGINEERING code. Sharing optimized practices, exercises, and utilizing diverse tools for effective progress in the second year of the Systems Information course. Collaboration in coding awaits!
+<h1 align="center">Welcome to my Repositories 🤝</h1>
+<p>
+   <img align="center" alt="Cesar-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</p>
+
+> 🌱👨‍💻 - Launching a repository at FIAP dedicated to optimized code in SOFTWARE ENGINEERING, a subject in the second year of the Systems Information course. Sharing high-performance practices and exercises, this repository will serve as a valuable resource for reviews and collaborations, fostering my development as a software engineer.
+
+Planning to leverage multiple tools throughout the course for an enriched learning experience and effective progress tracking. Stay tuned for shared files and collaborative coding adventures..
+
+## Download
+
+```sh
+https://github.com/eucesar/SOFTWARE-ENGINEERING-SI-FIAP.git
+```
+
+## Cesar
+
+👤 **Cesar Iglesias**
+
+* Github: [@eucesar](https://github.com/eucesar)
+* LinkedIn: [@Cesar Iglesias](https://www.linkedin.com/in/cesar-iglesias-tecnologia/)
+
+***
